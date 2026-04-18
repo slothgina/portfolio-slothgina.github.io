@@ -57,6 +57,23 @@ Python, sockets, packet parsing, network fundamentals, iterative development.
 
 👉 **GitHub Repo:** https://github.com/slothgina/slothsec_networksniffer
 
+### 🐒 Digital Monkey — A Tiny Web‑Based Interactive Creature
+
+A lightweight browser‑based digital pet built with HTML, CSS, and JavaScript.  
+Originally created as a joke, it evolved into a clean, interactive artifact demonstrating rapid prototyping, UI logic, and playful creativity.
+
+**Features**
+- Hunger, energy, and mood system  
+- Interactive actions (feed, play, rest)  
+- Simple UI and accessible layout  
+- Fully deployed on GitHub Pages  
+
+**Live Demo**  
+https://slothgina.github.io/digital-monkey
+
+**Skills demonstrated**  
+JavaScript logic, UI state management, GitHub Pages deployment, creative prototyping.
+
 
 ### **KC7 Investigations**
 Writeups and analysis from the KC7 cyber detective game, including infection chains, threat actor behavior, and Slothsec‑style investigation notes.

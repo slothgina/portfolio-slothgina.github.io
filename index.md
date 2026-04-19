@@ -10,6 +10,12 @@ This is where SlothStudio🦥 comes to life — blending creativity, cybersecuri
      
 [About Me](#about-me) • [Projects](#🛠️-projects) • [Rituals](#🌴-slothsec-rituals) • [Contact](#📬-contact)
 
+> ### 🦥 SlothStudio Field Note  
+> Slow is not weak.  
+> Slow is intentional.  
+> Slow is how the canopy survives storms.  
+>  
+> Every project here was grown, not rushed.
 
 
 

@@ -1,3 +1,6 @@
+<link rel="stylesheet" href="assets/slothstudio.css">
+
+
 # SlothStudio
 
 🌿 SlothStudio

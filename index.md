@@ -49,6 +49,7 @@ I’m currently expanding into software development, building a hybrid profile t
 SlothStudio is where all of that comes together — slowly, intentionally, and with a canopy‑level view.
 
 <div style="background:#e8f5e1; padding:20px; border-radius:10px;">
+
 ## 🧩 Skills Snapshot
 - Security Engineering & Vulnerability Analysis  
 - SOC Analysis & Threat Detection  

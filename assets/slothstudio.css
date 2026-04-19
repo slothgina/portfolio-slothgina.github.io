@@ -6,6 +6,12 @@ body {
   padding: 40px;
 }
 
+body {
+  border-left: 12px solid #4f7f4f;
+  border-right: 12px solid #4f7f4f;
+}
+
+
 h1, h2, h3 {
   color: #2f4f2f;
   text-shadow: 0 1px 1px #cfe8c8;

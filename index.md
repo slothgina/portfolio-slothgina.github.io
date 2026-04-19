@@ -1,14 +1,13 @@
 <link rel="stylesheet" href="assets/slothstudio.css">
 
 
-# SlothStudio
+# SlothStudio 🌿  
+*A canopy‑level portfolio of cybersecurity, creativity, and slow‑methodical precision.*
 
-🌿 SlothStudio
+Welcome to the canopy.  
+This is where SlothStudio🦥 comes to life — blending creativity, cybersecurity, and expressive Slothsec rituals.
 
-A jungle‑coded portfolio of Slothsec rituals, projects, and investigations.
-Welcome to the canopy.
-This is where SlothStudio🦥comes to life — blending creativity, cybersecurity, and slow‑methodical precision.
-More sections, writeups, and rituals will grow here soon.     
+     
 [About Me](#about-me) • [Projects](#🛠️-projects) • [Rituals](#🌴-slothsec-rituals) • [Contact](#📬-contact)
 
 

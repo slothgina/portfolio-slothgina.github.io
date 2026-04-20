@@ -17,7 +17,12 @@ body {
   border-radius: 10px;
   border: 2px solid #4f7f4f;
   margin: 20px 0;
+
+  display: flex;
+  flex-direction: column;   /* keeps content stacked vertically */
+  gap: 15px;                /* clean spacing between items */
 }
+
 
 
 h1, h2, h3 {

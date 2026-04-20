@@ -23,7 +23,6 @@ This is SlothStudio — a jungle of slow, intentional creation.
 > Slow is not weak.  
 > Slow is intentional.  
 > Slow is how the canopy survives storms.  
->  
 > Every project here was grown, not rushed.
 
 
@@ -48,17 +47,31 @@ I’m currently expanding into software development, building a hybrid profile t
 
 SlothStudio is where all of that comes together — slowly, intentionally, and with a canopy‑level view.
 
-<div style="background:#e8f5e1; padding:20px; border-radius:10px;">
+🌿⟡🌿
+
+<div style="background:#e8f5e1; padding:20px; border-radius:10px; border: 2px solid #4f7f4f;">
 
 ## 🧩 Skills Snapshot
+
+### 🌱 Core Security Skills
 - Security Engineering & Vulnerability Analysis  
 - SOC Analysis & Threat Detection  
-- Python Automation & Scripting  
 - OSINT & Investigation  
 - Linux & Windows Troubleshooting  
+
+### 🌿 Creative + Hybrid Skills
 - Creative Documentation (Slothsec Rituals)  
+- Pixel‑Art Prototyping  
+- Expressive Workflow Design  
+
+### 🌳 Engineering & Automation
+- Python Automation & Scripting  
+- GitHub Pages Deployment  
+- JavaScript Logic & UI State Management  
+
 </div>
 
+🌿⟡🌿
 
 
 ## 🛠️ Projects

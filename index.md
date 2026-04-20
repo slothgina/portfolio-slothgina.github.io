@@ -1,11 +1,11 @@
 <link rel="stylesheet" href="slothstudio.css">
 
-
 # SlothStudio 🌿  
 *A canopy‑level portfolio of cybersecurity, creativity, and slow‑methodical precision.*
 
 Welcome to the canopy.  
 This is where SlothStudio🦥 comes to life — blending creativity, cybersecurity, and expressive Slothsec rituals.
+
 <div style="font-size: 18px; color:#2f4f2f; margin-top:20px;">
 🌿 The canopy hums softly.  
 Vines curl around each project.  

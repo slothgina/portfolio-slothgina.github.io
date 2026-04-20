@@ -11,6 +11,14 @@ body {
   border-right: 12px solid #4f7f4f;
 }
 
+.jungle-box {
+  background: #e8f5e1;
+  padding: 20px;
+  border-radius: 10px;
+  border: 2px solid #4f7f4f;
+  margin: 20px 0;
+}
+
 
 h1, h2, h3 {
   color: #2f4f2f;

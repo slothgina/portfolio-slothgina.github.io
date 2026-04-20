@@ -46,9 +46,6 @@ I’m currently expanding into software development, building a hybrid profile t
 SlothStudio is where all of that comes together — slowly, intentionally, and with a canopy‑level view.
 🌿⟡🌿
 
-
-<div class="jungle-box">
-
 ## 🧩 Skills Snapshot
 
 ### 🌱 Core Security Skills
@@ -66,10 +63,6 @@ SlothStudio is where all of that comes together — slowly, intentionally, and w
 - Python Automation & Scripting  
 - GitHub Pages Deployment  
 - JavaScript Logic & UI State Management  
-
-</div>
-
-🌿⟡🌿
 
 ## 🛠️ Projects
 

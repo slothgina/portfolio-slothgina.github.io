@@ -19,11 +19,14 @@ body {
   margin: 20px 0;
 
   display: flex;
-  flex-direction: column;   /* keeps content stacked vertically */
-  gap: 15px;                /* clean spacing between items */
+  flex-direction: column;
+  gap: 15px;
+
+  width: 100%;          /* full width on small screens */
+  max-width: 800px;     /* prevents it from getting too wide */
+  margin-left: auto;    /* centers the box */
+  margin-right: auto;   /* centers the box */
 }
-
-
 
 h1, h2, h3 {
   color: #2f4f2f;

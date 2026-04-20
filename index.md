@@ -47,7 +47,7 @@ SlothStudio is where all of that comes together — slowly, intentionally, and w
 🌿⟡🌿
 
 
-<div style="background:#e8f5e1; padding:20px; border-radius:10px; border: 2px solid #4f7f4f;">
+<div class="jungle-box">
 
 ## 🧩 Skills Snapshot
 

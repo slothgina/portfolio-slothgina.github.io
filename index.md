@@ -25,9 +25,7 @@ This is SlothStudio — a jungle of slow, intentional creation.
 > Slow is how the canopy survives storms.  
 > Every project here was grown, not rushed.
 
-
-
-🦥 About Me
+## 🦥 About Me
 I’m Gina — a cybersecurity professional who blends technical precision with creative, jungle‑coded documentation.
 My work lives at the intersection of security engineering, SOC analysis, threat hunting, and expressive Slothsec rituals.
 
@@ -46,7 +44,6 @@ Adaptive troubleshooting across Linux, Windows, and virtualized environments
 I’m currently expanding into software development, building a hybrid profile that bridges security, creativity, and engineering.
 
 SlothStudio is where all of that comes together — slowly, intentionally, and with a canopy‑level view.
-
 🌿⟡🌿
 
 <div style="background:#e8f5e1; padding:20px; border-radius:10px; border: 2px solid #4f7f4f;">
@@ -72,7 +69,6 @@ SlothStudio is where all of that comes together — slowly, intentionally, and w
 </div>
 
 🌿⟡🌿
-
 
 ## 🛠️ Projects
 
@@ -142,11 +138,11 @@ If you’d like to connect, collaborate, or explore more of my work, you can fin
 
 Email: ginagroce3@gmail.com
 
-LinkedIn: https://www.linkedin.com/in/gina-groce-gg67 (linkedin.com in Bing)
+LinkedIn: https://www.linkedin.com/in/gina-groce-gg67
 
 GitHub: https://github.com/slothgina
 
-KC7 Profile: http://kc7cyber.com/profile/PhantomHacktivist3367 (kc7cyber.com in Bing)
+KC7 Profile: http://kc7cyber.com/profile/PhantomHacktivist3367
 
 I’m always growing new branches in the canopy — feel free to reach out.
 

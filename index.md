@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="assets/slothstudio.css">
+<link rel="stylesheet" href="slothstudio.css">
 
 
 # SlothStudio 🌿  

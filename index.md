@@ -66,8 +66,6 @@ SlothStudio is where all of that comes together — slowly, intentionally, and w
 
 ## 🛠️ Projects
 
-## 🛠️ Projects
-
 ### 🔐 Password Strength Evaluator
 A C# console application that evaluates password complexity using arrays, loops, conditionals, and a custom scoring method.  
 This project blends clean software fundamentals with my cybersecurity focus — a small but intentional tool forged in the Slothsec canopy.

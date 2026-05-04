@@ -66,6 +66,18 @@ SlothStudio is where all of that comes together — slowly, intentionally, and w
 
 ## 🛠️ Projects
 
+## 🛠️ Projects
+
+### 🔐 Password Strength Evaluator
+A C# console application that evaluates password complexity using arrays, loops, conditionals, and a custom scoring method.  
+This project blends clean software fundamentals with my cybersecurity focus — a small but intentional tool forged in the Slothsec canopy.
+
+**Tech:** C#, .NET Console  
+**Repo:** https://github.com/slothgina/paswrd_cker.git
+
+🌿 A slow, methodical ritual of logic — each character inspected like a footprint on the jungle floor.
+
+
 ### 🔍 Python Network Sniffer (Multi‑Version Project)
 
 A Python‑based packet sniffer I built and iterated on across multiple versions while learning network layers, sockets, and real‑time packet analysis.

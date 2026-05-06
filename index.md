@@ -64,6 +64,13 @@ SlothStudio is where all of that comes together — slowly, intentionally, and w
 - GitHub Pages Deployment  
 - JavaScript Logic & UI State Management  
 
+## 🎓 Credentials & Certifications
+
+You can view all of my verified certifications in one place through my Accredible Wallet:
+
+🔗 **Accredible Credential Wallet**  
+https://www.credential.net/profile/ginagroce497834/wallet
+
 ## 🛠️ Projects
 
 ### 🔐 Password Strength Evaluator

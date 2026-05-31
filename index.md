@@ -73,17 +73,17 @@ https://www.credential.net/profile/ginagroce497834/wallet
 
 ## 🛠️ Projects
 
-## SlothSec IP Reputation Checker
+# SlothSec IP Reputation Checker
 A fully deployed ASP.NET Core tool that checks any IPv4 address against AbuseIPDB’s threat‑intelligence database. Built as a clean, production‑ready SlothSec utility — fast, simple, and ritualistically methodical.
 
-# What it does  
+## What it does  
 Queries AbuseIPDB in real time, parses the JSON response, and returns a color‑coded risk score (Low / Medium / High). Designed for quick triage, OSINT workflows, and incident‑response instincts sharpened in the Slothsec canopy.
 
-# Tech: 
+### Tech: 
 C#, ASP.NET Core MVC, HttpClient, Docker, Render Deployment
-# Live App: 
+## Live App: 
 https://slothsec-ip-checker.onrender.com  
-# Repo:
+## Repo:
 https://github.com/slothgina/SlothSecIpCheckerWeb
 
 🌿 A slow, deliberate inspection of an IP’s footprint — each report treated like a leaf turned over on the jungle floor, revealing what crawls beneath.

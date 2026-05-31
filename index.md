@@ -25,7 +25,7 @@ This is SlothStudio — a jungle of slow, intentional creation.
 > Slow is how the canopy survives storms.  
 > Every project here was grown, not rushed.
 
-## 🦥 About Me
+# 🦥 About Me
 I’m Gina — a cybersecurity professional who blends technical precision with creative, jungle‑coded documentation.
 My work lives at the intersection of security engineering, SOC analysis, threat hunting, and expressive Slothsec rituals.
 
@@ -46,7 +46,7 @@ I’m currently expanding into software development, building a hybrid profile t
 SlothStudio is where all of that comes together — slowly, intentionally, and with a canopy‑level view.
 🌿⟡🌿
 
-## 🧩 Skills Snapshot
+# 🧩 Skills Snapshot
 
 ### 🌱 Core Security Skills
 - Security Engineering & Vulnerability Analysis  
@@ -71,7 +71,7 @@ You can view all of my verified certifications in one place through my Accredibl
 🔗 **Accredible Credential Wallet**  
 https://www.credential.net/profile/ginagroce497834/wallet
 
-## 🛠️ Projects
+# 🛠️ Projects
 
 # SlothSec IP Reputation Checker
 A fully deployed ASP.NET Core tool that checks any IPv4 address against AbuseIPDB’s threat‑intelligence database. Built as a clean, production‑ready SlothSec utility — fast, simple, and ritualistically methodical.
@@ -89,7 +89,7 @@ https://github.com/slothgina/SlothSecIpCheckerWeb
 🌿 A slow, deliberate inspection of an IP’s footprint — each report treated like a leaf turned over on the jungle floor, revealing what crawls beneath.
 
 
-###  Password Strength Evaluator
+##  Password Strength Evaluator
 A C# console application that evaluates password complexity using arrays, loops, conditionals, and a custom scoring method.  
 This project blends clean software fundamentals with my cybersecurity focus — a small but intentional tool forged in the Slothsec canopy.
 
@@ -99,7 +99,7 @@ This project blends clean software fundamentals with my cybersecurity focus — 
 🌿 A slow, methodical ritual of logic — each character inspected like a footprint on the jungle floor.
 
 
-### 🔍 Python Network Sniffer (Multi‑Version Project)
+## 🔍 Python Network Sniffer (Multi‑Version Project)
 
 A Python‑based packet sniffer I built and iterated on across multiple versions while learning network layers, sockets, and real‑time packet analysis.
 
@@ -114,7 +114,7 @@ Python, sockets, packet parsing, network fundamentals, iterative development.
 
 👉 **GitHub Repo:** https://github.com/slothgina/slothsec_networksniffer
 
-### 🐒 Digital Monkey — A Tiny Web‑Based Interactive Creature
+## 🐒 Digital Monkey — A Tiny Web‑Based Interactive Creature
 
 A lightweight browser‑based digital pet built with HTML, CSS, and JavaScript.  
 Originally created as a joke, it evolved into a clean, interactive artifact demonstrating rapid prototyping, UI logic, and playful creativity.
